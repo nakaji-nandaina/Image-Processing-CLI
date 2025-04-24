@@ -1,0 +1,18 @@
+__pycache__/
+image_app.egg-info/
+#Ignore all Image and Video files
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.gif
+**/*.svg
+**/*.bmp
+**/*.tiff
+**/*.ico
+**/*.webp
+**/*.mp4
+**/*.avi
+**/*.mov
+**/*.mkv
+**/*.wmv
+**/*.flv
