@@ -6,7 +6,8 @@ setup(
     packages=find_packages(),
     install_requires=[
         'opencv-python',
-        'numpy'
+        'numpy',
+        'Pillow'
     ],
     entry_points={
         'console_scripts': [
